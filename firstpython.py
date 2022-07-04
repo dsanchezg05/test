@@ -1,2 +1,0 @@
-#new
-print("hello world")
